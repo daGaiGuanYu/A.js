@@ -1,0 +1,19 @@
+{
+  "name": "smart-lazy",
+  "version": "1.0.0",
+  "description": "web 开发中，有的数据不需要重复获取，或者很少更新，这种时候，对一个或一组数据的读取的次数，应当给予控制，提高性能。",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daGaiGuanYu/A.js.git"
+  },
+  "author": "gy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daGaiGuanYu/A.js/issues"
+  },
+  "homepage": "https://github.com/daGaiGuanYu/A.js#readme"
+}
